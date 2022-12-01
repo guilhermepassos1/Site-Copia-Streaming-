@@ -1,0 +1,25 @@
+.cor1{
+    background-color: #08179c;
+}
+.nome{
+    color:white;
+}
+.container > h2{
+    color: white;
+}
+.btn{
+    border:1px solid white;
+    color: white;
+    background: none;
+}
+.btn:hover{
+    background-color: #02168a8a;
+    color: white;
+    border-color: white;
+    box-shadow: 2px 2px 2px black;
+}
+
+.filme{
+    background-color: black;
+}
+
